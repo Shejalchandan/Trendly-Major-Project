@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Full Stack Project
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -127,3 +128,6 @@ Feel free to customize the README to include more specific information about you
 ### Order Summery
 ![Screenshot (101)](https://github.com/ashok0001/shopwithzosh/assets/93376968/2847231f-72ff-46de-9426-ded1e9133326)
 
+=======
+# Trendly
+>>>>>>> bda61cbde90601a0ec565838fad84b87dd53b423
