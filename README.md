@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # E-Commerce Full Stack Project
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -131,3 +132,6 @@ Feel free to customize the README to include more specific information about you
 =======
 # Trendly
 >>>>>>> bda61cbde90601a0ec565838fad84b87dd53b423
+=======
+# Trendly-Major-Project
+>>>>>>> ace5b521c8962d5e373d048bed97addad39c6abf
